@@ -10,7 +10,7 @@
 
 ## Why this project?
 
-A general-purpose style imitation tool can reproduce phrasing while missing the scientific reasoning that supports a publication or grant proposal. Academic-Writing-DNA adapts the corpus-to-writing-rules concept to academic workflows. It prioritizes research questions, study design, statistical evidence, citation integrity, and defensible claims **before** wording and style.
+Academic-Writing-DNA provides a scientific writing workflow that separates evidence evaluation, study-design review, manuscript structure, and language revision. It prioritizes research questions, statistical evidence, citation integrity, and defensible claims **before** wording and style.
 
 它的目标是让 AI 在起草、修改论文时始终区分“写得像高水平论文”和“研究有真实科学依据”。所有写作规范均可修订，所有重要主张均应可追溯到原始证据。
 
@@ -116,8 +116,7 @@ Academic-Writing-DNA/
 │   └── project-context.template.md
 ├── tests/test_tools.py
 ├── README.md
-├── LICENSE
-└── 来源与许可.md
+└── LICENSE
 ```
 
 ## Scientific integrity and privacy | 科学规范与隐私
@@ -133,11 +132,11 @@ Academic-Writing-DNA/
 
 v0.1.0 includes a reproducible set of instructions, templates, two lightweight local scripts, and unit tests. Future improvements may include annotated discipline-specific corpus examples **where distribution rights permit**, more robust reference checking, and blinded before/after manuscript evaluation. Those improvements are not implemented yet.
 
-## Origins and license | 项目来源及许可
+## License | 开源许可
 
-Inspired by the corpus analysis → writing DNA → reuse workflow of [writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill) (MIT License). The SCI/NSFC workflows and integrity constraints have been tailored for academic research. This repository does not include the original project's entire functionality, nor does it include copyrighted example manuscripts.
+Copyright (c) 2026 zhangsxphd. Released under the [MIT License](LICENSE).
 
-Released under the [MIT License](LICENSE). See [来源与许可.md](来源与许可.md).
+本项目代码、文档和模板采用 MIT License 开源。科研论文、基金申请书、原始数据和第三方文献不属于本项目的开源内容，请按照相关版权和保密要求独立管理。
 
 ---
 

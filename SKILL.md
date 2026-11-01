@@ -65,4 +65,4 @@ description: 为农业水利、土壤科学和农业工程科研写作建立可�
 
 ## 维护说明
 
-基于开源项目 [writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill) 的“语料→分层分析→风格规则→复用”思路重新设计；本 Skill 的学术证据、SCI 与 NSFC 规则为专门改写。原项目采用 MIT License，详见随附 `LICENSE`。
+本 Skill 按科研任务维护英文 SCI 论文与中文 NSFC 申请书写作流程。修改任何写作规则时，优先确保可追溯证据、原始数据、统计结果与结论一致。项目代码与文档采用仓库内 `LICENSE` 所载 MIT License。
