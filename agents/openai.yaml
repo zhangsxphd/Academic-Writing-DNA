@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研写作 DNA"
+  short_description: "面向 SCI 论文与青年基金的证据驱动写作及风格蒸馏"
+  default_prompt: "使用 $academic-writing-dna 审查这份科研稿件的科学逻辑、证据完整性和写作风格，并在不改变事实的前提下修改。"
